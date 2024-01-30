@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rwisn10
+- 👀 I’m interested in computers and network administration 
+- 🌱 I’m currently learning python
+--->
